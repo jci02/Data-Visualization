@@ -21,7 +21,7 @@ The goal is to build visualizations that are not just correct — but **communic
 
 ---
 
-## 1. Hello, Seaborn
+## 1. Matplotlib & Seaborn
 
 **Focus:** Getting started with Seaborn and Matplotlib.
 
