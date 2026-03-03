@@ -276,4 +276,4 @@ plt.show()
 * Matplotlib
 * Jupyter Notebook
 
-
+🚀 see more on matplotlib Gallery http://matplotlib.org/ or https://matplotlib.org/stable/tutorials/pyplot.html
