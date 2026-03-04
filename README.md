@@ -3,8 +3,9 @@
 Showcasing my ability to transform raw data into clear, compelling visual insights using **Seaborn** and **Matplotlib**. This repository documents my progression from foundational plots to more polished, publication-ready visualizations.
 
 <p align="center">
-  <img src="images/plot.png" width="500">
+<img src="choose-plot-type.png" width="500"/>
 </p>
+
 
 
 ---
