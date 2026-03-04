@@ -2,8 +2,7 @@
 
 Showcasing my ability to transform raw data into clear, compelling visual insights using **Seaborn** and **Matplotlib**. This repository documents my progression from foundational plots to more polished, publication-ready visualizations.
 
-![My Plot](choose-plot-type.png)
-
+<img src="choose-plot-type.png" width="300">
 ---
 
 ## 🎯 Objective
